@@ -1,0 +1,9 @@
+﻿l_english:
+ partial_economic_mobilisation_dynamic_modifier: "经济部分动员"
+ war_economy_dynamic_modifier: "战时经济"
+ tot_economic_mobilisation_dynamic_modifier: "经济总动员"
+ partial_economic_mobilisation_reduce_daliy_political_power_factor_tt: "§R由于战争支持度, 我们获得的政治点数将会减少§!:[?.partial_economic_mobilisation_political_power_factor|%R1]"
+ war_economy_reduce_daliy_political_power_factor_tt: "§R由于战争支持度, 我们获得的政治点数将会减少§!:[?.war_economy_political_power_factor|%R1]"
+ war_economy_reduce_stability_factor_tt: "§R由于战争支持度,我们的稳定度将会减少§!:[?.war_economy_stability_factor|%R1]"
+ tot_economic_mobilisation_reduce_daliy_political_power_factor_tt: "§R由于战争支持度, 我们获得的政治点数将会减少§!:[?.tot_economic_mobilisation_political_power_factor|%R1]"
+ tot_economic_mobilisation_reduce_weekly_stability_factor_tt: "§R由于战争支持度,我们的每周稳定度将会减少§!:[?.tot_economic_mobilisation_weekly_stability_factor|%R1]"
